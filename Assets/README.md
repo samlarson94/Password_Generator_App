@@ -13,7 +13,7 @@
 - Added some styling to practice Js DOM.
 
 
-## Link to Live Page = 
+## Link to Live Page = https://samlarson94.github.io/Password_Generator_App/
 
 
 ## Visuals
