@@ -171,8 +171,6 @@ function writePassword() {
   passwordText.value = password;
 }
 
-
-
 // VERIFY THAT generatePassword function is working above //
 
 // Additional Stying Practice //
